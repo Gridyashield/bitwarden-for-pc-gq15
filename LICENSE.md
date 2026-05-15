@@ -1,4 +1,4 @@
-# 
+# Enhance 1Password for PC | 1Password for Windows with advanced 1Password for PC | 1Password for Windows Helper | identity-storage + password-audit, the #1 helper. Includes
 
 
 
